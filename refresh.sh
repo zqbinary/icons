@@ -7,7 +7,7 @@ cat>./.git/config<<EOF
         bare = false
         logallrefupdates = true
 [remote "origin"]
-        url = https://gitee.com/${1}/tu-year.git
+        url = https://gitee.com/fjsdtst/tu-year.git
         fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
         remote = origin
